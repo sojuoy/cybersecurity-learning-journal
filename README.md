@@ -24,5 +24,5 @@ Projects will be added as I build and test them.
 Ethics
 All security practice will be conducted on systems I own or have explicit permission to test.
 
-This repository documents my learning journey. Skills and project results will be added as I complete them.# cybersecurity-learning-journal
+This repository documents my learning journey. Skills and project results will be added as I complete them.cybersecurity-learning-journal
 My hands-on journey learning Linux, networking and cybersecurity.
